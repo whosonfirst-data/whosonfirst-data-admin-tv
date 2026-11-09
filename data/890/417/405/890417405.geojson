@@ -168,7 +168,7 @@
     },
     "wof:country":"TV",
     "wof:created":1469051200,
-    "wof:geomhash":"800c902087ac32eec11ab37bc0885896",
+    "wof:geomhash":"f4ad1d806e7b64b1ac3271e93a4c61f9",
     "wof:hierarchy":[
         {
             "country_id":85632607,
@@ -193,5 +193,5 @@
     179.466,
     -10.788
 ],
-  "geometry": {"coordinates":[179.46600000000001,-10.788],"type":"Point"}
+  "geometry": {"coordinates":[179.466,-10.788],"type":"Point"}
 }
